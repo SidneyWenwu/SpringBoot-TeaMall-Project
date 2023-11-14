@@ -43,53 +43,53 @@
 
 #### 1、前台
 
-![登录](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-login.png)
+![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-register.png)
 
-![注册](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-register.png)
+![注册](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-register.png)
 
-![1](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-1.png)
+![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-1.png)
 
-![2](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-2.png)
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-2.png)
 
-![3](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-3.png)
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-3.png)
 
-![4](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-4.png)
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-4.png)
 
 ![5](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-5.png)
 
-![6](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/front-6.png)
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/front-6.png)
 
 #### 2、后台
 
-![登录](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-login.png)
+![登录](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-login.png)
 
-![1](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-1.png)
+![1](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-1.png)
 
-![2](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-2.png)
+![2](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-2.png)
 
-![3](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-3.png)
+![3](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-3.png)
 
-![4](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-4.png)
+![4](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-4.png)
 
-![5](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-5.png)
+![5](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-5.png)
 
-![6](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-6.png)
+![6](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-6.png)
 
-![7](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-7.png)
+![7](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-7.png)
 
-![8](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-8.png)
+![8](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-8.png)
 
-![9](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/admin-9.png)
+![9](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/admin-9.png)
 
 ### 五、安装步骤
 
 #### 1、数据库建库，运行SQL语句
 
-![1db](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/1db.png)
+![1db](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/1db.png)
 
 #### 2、Idea配置好yml文件后运行
 
-![1idea](https://gitee.com/su-wenwu666/common-resource/raw/master/SpringBoot-TeaMall/image/1idea.png)
+![1idea](https://github.com/SidneyWenwu/CommonResource/blob/main/SpringBoot-TeaMall/image/1idea.png)
 
 #### 3、运行前台，打开VSCode
 
@@ -137,15 +137,13 @@
 
  **本项目不在维护，如有任何问题或者需要源码，请联系我**
 
-![addWechat](https://gitee.com/su-wenwu666/common-resource/raw/master/ContactMe/addWechat.png)
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/addWechat.png)
 
 ### 创作不易，给点赏银
 
-![addWechat](https://gitee.com/su-wenwu666/common-resource/raw/master/ContactMe/wechat.png)
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/wechat.png)
 
-![addWechat](https://gitee.com/su-wenwu666/common-resource/raw/master/ContactMe/alipay.png)
-
-
+![addWechat](https://github.com/SidneyWenwu/CommonResource/blob/main/ContactMe/alipay.png)
 
 
 
@@ -162,7 +160,3 @@
 
 
 
-
-
-
-https://gitee.com/gitee-stars/)
